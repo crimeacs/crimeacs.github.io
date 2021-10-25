@@ -1,0 +1,35 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450.24 57.54">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+        font-family: Futura-Medium, Futura;
+        font-weight: 500;
+        fill: #000;
+      }
+
+@media (prefers-color-scheme: dark) {
+.cls-1, .cls-2 {
+stroke: #fff;
+}
+
+.cls-3 {
+fill: #fff;
+}
+}
+    </style>
+  </defs>
+  <circle class="cls-1" cx="28.77" cy="28.77" r="28.27"/>
+  <polyline class="cls-2" points="0.5 31.46 14.71 31.46 22.3 14.4 27.98 48.2 34.93 14.4 42.83 31.3 57.05 31.3"/>
+  <text class="cls-3" transform="translate(66.47 36.1)">Seismic Data Augmentation Library</text>
+</svg>
