@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://mldangelo.com/",
+  "homepage": "https://crimeacs.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://crimeacs.github.io/personal-site/"
+    "url": "https://crimeacs.github.io/public/"
 
   },
   "scripts": {
